@@ -11,4 +11,4 @@ I love learning, i love science and more I love Ai and Machine Learning.
 
 **may u needs ✨**
 
-- {{ site.author.email }}
+- {{ oktavianusmisro.a@gmail.com }}
