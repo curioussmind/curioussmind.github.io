@@ -10,5 +10,3 @@ my name is oktavianus misro adrianto. Currently teaching science and biology in 
 I love learning, i love science and more I love Ai and Machine Learning. 
 
 **may u needs ✨**
-
-- {{ oktavianusmisro.a@gmail.com }}
