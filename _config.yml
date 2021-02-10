@@ -1,5 +1,5 @@
 # Site settings
-title: Klise Theme # site title
+title: the curious mind # site title
 description: >- # site description
   He's writing in Bahasa about web technology and experience as a journal 
   for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
@@ -11,13 +11,14 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: the curious mind # author name
+  name: oktavianus_misro # author name
   bio: >- # tell to the world
     just a curious mind
-  username: username # general username
+  username: curious mind # general username
 #  github: github_username # github username
 #  twitter: twitter_username # twitter username
 #  facebook: facebook_username # facebook username
+  instagram: thecurious.mind
   email: oktavianusmisro.a@email.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
