@@ -13,8 +13,8 @@ mode: dark # default theme "dark" | "light"
 author:
   name: the curious mind # author name
   bio: >- # tell to the world
-    this small blog is the collections of my thoughts and knowledge in various fields especially
-    in artificial intelligence, machine learning, programming and science in general. 
+    This small blog is the collections of my thoughts and knowledge in various fields especially
+    in Artificial Intelligence, Machine Learning, Programming and Science in general. 
   username: curious mind # general username
 #  github: github_username # github username
 #  twitter: twitter_username # twitter username
