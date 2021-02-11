@@ -11,9 +11,10 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: oktavianus_misro # author name
+  name: the curious mind # author name
   bio: >- # tell to the world
-    just a curious mind
+    this small blog is the collections of my thoughts and knowledge in various fields especially
+    in artificial intelligence, machine learning, programming and science in general. 
   username: curious mind # general username
 #  github: github_username # github username
 #  twitter: twitter_username # twitter username
